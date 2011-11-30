@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowRulesEngine", "WorkFlowProvider\WorkflowRulesEngine.csproj", "{4C239FC0-33E9-404C-B46E-9D01307C37BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowRulesEngine", "WorkflowRulesEngine\WorkflowRulesEngine.csproj", "{4C239FC0-33E9-404C-B46E-9D01307C37BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{CC21B03F-7D80-438C-A384-911ABB62E8FB}"
 EndProject
